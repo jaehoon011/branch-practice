@@ -1,5 +1,5 @@
 ``` Markdown
-# FIZZBUZZ on update-RM
+# FIZZBUZZ on update-RM2
 
 ## How to Start
 
